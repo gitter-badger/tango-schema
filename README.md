@@ -1,5 +1,7 @@
 # tango-schema
 
+[![Join the chat at https://gitter.im/5gtango/tango-schema](https://badges.gitter.im/5gtango/tango-schema.svg)](https://gitter.im/5gtango/tango-schema?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The schema files for the various descriptors used by 5GTANGO as well as some examples and tests. The schema files in this repository serve as ground truth for the whole 5GTANGO project. Thus, every tool and sub-project should be able to parse and handle the latest versions of these files (or - once available - tagged versions in corresponding branches).
 
 The 5GTANGO schemas are a fork of the SONATA NFV schemas which have been developed in the 5GPPP project SONATA ([http://sonata-nfv.eu](http://sonata-nfv.eu)).
